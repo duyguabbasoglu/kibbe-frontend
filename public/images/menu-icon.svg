@@ -1,0 +1,6 @@
+<!-- /public/images/menu-icon.svg -->
+<svg width="28" height="28" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <rect x="3" y="5" width="18" height="2" rx="1" fill="#0F172A"></rect>
+  <rect x="3" y="11" width="18" height="2" rx="1" fill="#0F172A"></rect>
+  <rect x="3" y="17" width="18" height="2" rx="1" fill="#0F172A"></rect>
+</svg>
